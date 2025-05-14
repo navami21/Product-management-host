@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #954877;
+    color: white;
+    font-weight:600;
+    height: 70px;
+}
+
+ .nav-link { 
+    color: aliceblue !important;
+    font-size: 18px !important; 
+  }
+  
+  .navbar-brand {
+      color: aliceblue !important;
+      font-size: 30px !important;
+  }
+  .nav-link:hover{
+    background-color: #c5919e;
+    border-radius: 5px;
+    color: black !important;
+  }
+  .navbar-nav {
+    display: flex;
+    justify-content: space-between; 
+    gap: 25px;
+  }
